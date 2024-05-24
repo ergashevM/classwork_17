@@ -1,0 +1,21 @@
+.dropdown-menu,.dropdown-item{
+    background-color: #000 !important;
+}
+button:hover{
+    background-color:  #fff !important;
+    color: #000 !important;
+}
+.dropdown-item{
+    color: #fff !important;
+}
+.dropdown-item:hover{
+    color: #000 !important;
+    background-color:  #fff !important; 
+}
+.color:hover{
+    color: #000 !important;
+    background-color:  #fff !important; 
+}
+
+
+
